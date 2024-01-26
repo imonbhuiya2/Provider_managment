@@ -5,7 +5,8 @@
   "Database"                   : "MySQL",
 }
 
-## Installation
+### Installation
+
 Clone this repository:
 ```
  git clone: https://github.com/imonbhuiya2/Provider_managment.git
