@@ -12,10 +12,11 @@ Clone this repository:
  git clone: 
  ```
  https://github.com/imonbhuiya2/Provider_managment.git
- 
+
  ```
-```
+
 Create .env file as .env.dist file.
+
 ```
 docker-compose up -d --build
 ```
