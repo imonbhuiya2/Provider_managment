@@ -5,10 +5,10 @@
   "Database"                   : "MySQL",
 }
 
-### Installation
 
-Clone this repository:
 ```
+## Installation
+Clone this repository:
  git clone: https://github.com/imonbhuiya2/Provider_managment.git
 ```
 Create .env file as .env.dist file.
