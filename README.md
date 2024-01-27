@@ -5,9 +5,8 @@
 
 
  ```
-https://dg4gi3uw0m2xs.cloudfront.net/docs#/agreement
-
- ```
+ https://dg4gi3uw0m2xs.cloudfront.net/docs#/agreement
+```
 #### Material Group API URL
 
 ```
