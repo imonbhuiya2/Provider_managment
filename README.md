@@ -84,6 +84,7 @@ Format is below for the GET request:
 #### Material group(GET Request)
 ![material group post](https://github.com/imonbhuiya2/Provider_managment/assets/148837357/4e9d0ac6-62cc-4901-9f91-b0583a9a831a)
 Format is below for the POST request:
+```
 {
   "id": 7,
   "name": "string",
@@ -92,6 +93,7 @@ Format is below for the POST request:
   "createdAt": "2024-01-27T20:21:28.052Z",
   "updatedAt": "2024-01-27T20:21:28.052Z"
 }
+```
 #### Porvider (POST Request)
 ![provider post](https://github.com/imonbhuiya2/Provider_managment/assets/148837357/c3389ae0-7f18-4181-92f7-a6a8ab254f64)
 Format is below for the POST request:
