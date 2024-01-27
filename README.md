@@ -1,31 +1,24 @@
-### DESCRIPTION
-```json
-{
-  "Framework"                  : "Node JS", "Express JS",
-  "Database"                   : "MySQL",
-}
+# PROVIDER MANAGEMENT COMPONENT  (PMC) 
+## Contains
+### Important URLs
+#### Agreement API URL
 
-
-```
-## Installation
-Clone this repository:
- git clone: 
- ```
- https://github.com/imonbhuiya2/Provider_managment.git
 
  ```
+https://dg4gi3uw0m2xs.cloudfront.net/docs#/agreement
 
-Create .env file as .env.dist file.
+ ```
+#### Material Group API URL
 
 ```
-docker-compose up -d --build
+https://dg4gi3uw0m2xs.cloudfront.net/docs#/materialGroup
 ```
-Run this application locally with a single command by docker-compose:
+#### Provider API URL
 ```
-docker-compose up -d --build
+https://dg4gi3uw0m2xs.cloudfront.net/docs#/provider
 ```
-Run migrations by Make file:
+### How To Use Our API
+#### API For Agreement
 ```
-make dc-db-migrations
-```
-The application will be live at port: 3000 and swagger at http://localhost:3000/docs/ DB: http://localhost:8081
+![ag](https://github.com/imonbhuiya2/Provider_managment/assets/148837357/ca64b2d1-6f99-450b-88ff-c422b162349f)
+````
