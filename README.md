@@ -19,8 +19,6 @@ https://dg4gi3uw0m2xs.cloudfront.net/docs#/provider
 ### How To Use Our API
 #### API For Agreement(Post Request)
 ![image](https://github.com/imonbhuiya2/Provider_managment/assets/148837357/fcc0ade7-26b1-428f-a7bc-2826b34d480d)
-![Screenshot_1](https://github.com/user-attachments/assets/1051a442-cd8c-4629-8725-0eea62ea2a83)
-![Screenshot_17](https://github.com/user-attachments/assets/6bff998b-8ec3-4dc9-875a-a93158f0737a)
 
 Format is below for the POST request:
 ```
